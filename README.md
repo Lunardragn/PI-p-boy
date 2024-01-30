@@ -71,6 +71,9 @@ Raise a warning if it goes past a certain threshold, as a means of protecting he
 ### Dust sensor - Waveshare Sharp GP2Y1010AU0F 
 ### Environment sensor
 ### 360 LIDAR
+### Controller expansion
+Make it so custom controls like joysticks or extra rotary encoders can be plugged in to control things connected through GPIO. Like, two servos controlled with a couple rotary encoders, or a joystick. 
+I want to support at least 3 additional inputs. Really stretching the GPIO pins of the pi thin... might need a co-processor like a Pico to recieve serial and expand the overall GPIO. need to make a circut diagram first.
 
 
 # Check out:
