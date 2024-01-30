@@ -42,6 +42,18 @@ Updates will be made after I get the components
 ### Modded 3d printed case, to allow for a bigger battery, interfacing for custom modules, extra buttons (If needed, not sure how far the twin rotary encoders can go in terms of being "comfortable").
 ### Camera, object detection, and pose tracking toggle for fun
 ### Zero Light Mapping via 360 LIDAR module
+### Support for servo and stepper motor testing maybe?
+
+# Modules:
+### Microphone - Ambient or direct sound measuring
+### Laser Distance
+### Ultrasonic distance
+### MQ series sensors - Gas 
+### CO2 sensor - MH-Z16 for this version
+### Dust sensor - Waveshare Sharp GP2Y1010AU0F 
+### Environment sensor
+### 360 LIDAR
+
 
 # Check out:
 
