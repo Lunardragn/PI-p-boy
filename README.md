@@ -49,6 +49,7 @@ x1 (Might change. Wanted to use it to handle inputs so the main pi has more free
 ### mediapipe-rpi4
 ### gtts
 ### mpg321
+### tkinter
 
 # TO DO:
 
