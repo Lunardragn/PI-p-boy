@@ -7,6 +7,11 @@ Updates will be made after I get the components
 ### pyautogui
 ### RPi.GPIO
 ### opencv
+### python-opencv python3-opencv opencv-data
+### mediapipe-rpi3
+### mediapipe-rpi4
+### gtts
+### mpg321
 
 # TO DO:
 
