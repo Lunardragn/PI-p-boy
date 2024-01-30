@@ -37,7 +37,8 @@ x1 (Dimensions pending)
 x1 
 ### Slide switch for a power switch 
 x1
-
+### Pi Pico
+Might change. Wanted to use it to handle inputs so the main pi has more free GPIO pins
 
 # Dependencies:
 ### pyautogui
