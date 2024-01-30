@@ -63,6 +63,7 @@ x1
 
 # Modules:
 ### Microphone - Ambient or direct sound measuring
+Raise a warning if it goes past a certain threshold, as a means of protecting hearing
 ### Laser Distance
 ### Ultrasonic distance
 ### MQ series sensors - Gas 
