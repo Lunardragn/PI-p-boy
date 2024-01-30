@@ -25,4 +25,5 @@ Updates will be made after I get the components
 ### https://github.com/SirLefti/piboy
 ### https://github.com/Zaryob/raspipboy
 ### https://core-electronics.com.au/guides/object-identify-raspberry-pi/
+### https://core-electronics.com.au/guides/pose-and-face-landmark-raspberry-pi/
 ### These could be used as inspiration, modified they could do exactly what I need. I suppose this is my way of crediting these projects
