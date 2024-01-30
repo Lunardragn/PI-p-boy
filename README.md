@@ -66,6 +66,8 @@ x1
 ### Support for servo and stepper motor testing maybe?
 ### Controller expansion
 ### Pentesting stuff?
+### The ability to switch between the custom GUI and a destop environment. 
+It's a mini PC, why the heck not?
 
 # Modules:
 ### Microphone - Ambient or direct sound measuring
