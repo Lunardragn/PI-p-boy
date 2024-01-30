@@ -31,6 +31,7 @@ Updates will be made after I get the components
 
 # TO DO:
 
+### GPIO based Serial console, because why not
 ### Implement a custom GUI, to select from a list of apps.
 ### GPS compatibility via UBLOX-7 module.
 ### "Graceful" Desktop interaction (Onscreen keyboard, etc).
