@@ -6,6 +6,7 @@ Updates will be made after I get the components
 # Dependencies:
 ### pyautogui
 ### RPi.GPIO
+### opencv
 
 # TO DO:
 
