@@ -60,6 +60,8 @@ x1
 ### Camera, object detection, and pose tracking toggle for fun
 ### Zero Light Mapping via 360 LIDAR module
 ### Support for servo and stepper motor testing maybe?
+### Controller expansion
+### Pentesting stuff?
 
 # Modules:
 ### Microphone - Ambient or direct sound measuring
