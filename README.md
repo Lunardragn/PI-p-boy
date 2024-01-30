@@ -2,6 +2,22 @@
 This is currently untested, as I am still working on obtaining parts. 
 
 Updates will be made after I get the components
+# Hardware:
+### Pi 3 or 4 x1
+### Rotary encoders x2
+### GPS module x1 (Pending implementation)
+### Modded 3d printed case (In progress)
+### 3.5 inch LCD (This version is using an HDMI screen I snagged on Amazon)
+### Pi camera/webcam
+### Female to female jumper wires
+### Real-Time Clock module (pending implementation)
+### Geiger counter compatibility (Couldn't resist, pending implementation)
+### Adafruit Amp (Adafruit Mono 2.5W Class D Audio Amplifier - PAM8302 [ADA2130])
+### Adafruit PowerBoost 1000 and battery (I chose a dual cell 5200mAh 3.7v Lithium ion Battery)
+### Small plastic speaker (Dimensions pending)
+### LED and resistor of your choice 
+### Slide switch for a power switch
+
 
 # Dependencies:
 ### pyautogui
