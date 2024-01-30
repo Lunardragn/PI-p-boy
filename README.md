@@ -6,6 +6,10 @@ Designed for those who just really want an open source pipboy style wearable tha
 This is currently untested, as I am still working on obtaining parts. 
 
 Updates will be made after I get the components
+
+### Are there better solutions?
+Yeah, but I want to make this one mine, with all the bits and bobs I could ever want. Just uploading the stuff so anyone could make one if they wanted
+
 # Hardware:
 ### Pi 3 or 4 x1
 ### Rotary encoders x2
