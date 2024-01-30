@@ -18,3 +18,9 @@ Updates will be made after I get the components
 ### Proper setup guide.
 ### Custom assets (Boot screen, buttons, fonts).
 ### Modded 3d printed case, to allow for a bigger battery, interfacing for custom modules, extra buttons (If needed, not sure how far the twin rotary encoders can go in terms of being "comfortable").
+
+# Check out:
+
+### https://github.com/SirLefti/piboy
+### https://github.com/Zaryob/raspipboy
+### These could be used as inspiration, modified they could do exactly what I need. I suppose this is my way of crediting these projects
