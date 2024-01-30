@@ -1,0 +1,10 @@
+pyautogui
+RPi.GPIO 
+gpiozero
+opencv
+opencv-contrib-python
+mediapipe-rpi3
+mediapipe-rpi4
+gtts
+mpg321
+tkinter
