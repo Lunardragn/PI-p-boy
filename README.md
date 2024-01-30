@@ -96,4 +96,5 @@ I want to support at least 3 additional inputs. Really stretching the GPIO pins 
 ### https://github.com/Zaryob/raspipboy
 ### https://core-electronics.com.au/guides/object-identify-raspberry-pi/
 ### https://core-electronics.com.au/guides/pose-and-face-landmark-raspberry-pi/
+### https://learn.adafruit.com/raspberry-pi-pipboy-3000/
 ### These could be used as inspiration, modified they could do exactly what I need. I suppose this is my way of crediting these projects
