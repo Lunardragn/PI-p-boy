@@ -42,7 +42,8 @@ x1 (Might change. Wanted to use it to handle inputs so the main pi has more free
 
 # Dependencies:
 ### pyautogui
-### RPi.GPIO
+### RPi.GPIO or gpiozero 
+(Testing, need to find out which works better)
 ### opencv
 ### python-opencv python3-opencv opencv-data
 ### mediapipe-rpi3
