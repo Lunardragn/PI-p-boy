@@ -41,6 +41,7 @@ Updates will be made after I get the components
 ### Custom assets (Boot screen, buttons, fonts).
 ### Modded 3d printed case, to allow for a bigger battery, interfacing for custom modules, extra buttons (If needed, not sure how far the twin rotary encoders can go in terms of being "comfortable").
 ### Camera, object detection, and pose tracking toggle for fun
+### Zero Light Mapping via 360 LIDAR module
 
 # Check out:
 
