@@ -1,3 +1,7 @@
+# PI-pboy
+### The mega swiss army knife of wearable hardware. 
+Designed for those who just really want an open source pipboy style wearable that's compatible with almost everything I guess
+
 # NOTE:
 This is currently untested, as I am still working on obtaining parts. 
 
@@ -5,18 +9,30 @@ Updates will be made after I get the components
 # Hardware:
 ### Pi 3 or 4 x1
 ### Rotary encoders x2
-### GPS module x1 (Pending implementation)
-### Modded 3d printed case (In progress, needs foam for padding, and magnets to hold it closed. might make mounts for straps, in case it's too big)
-### 3.5 inch LCD x1 (This version is using an HDMI screen I snagged on Amazon)
-### Pi camera/webcam x1
-### Female to female jumper wires x??
-### Real-Time Clock module x1 (pending implementation)
-### Geiger counter module x1 (Couldn't resist, pending implementation)
-### Adafruit Amp x1 (Adafruit Mono 2.5W Class D Audio Amplifier - PAM8302 [ADA2130])
-### Adafruit PowerBoost 1000 and battery x1 (I chose a dual cell 5200mAh 3.7v Lithium ion Battery)
-### Small plastic speaker x1 (Dimensions pending)
-### LED and resistor of your choice x1 
-### Slide switch for a power switch x1
+### GPS module x1 
+(Pending implementation)
+### Modded 3d printed case 
+(In progress, needs foam for padding, and magnets to hold it closed. might make mounts for straps, in case it's too big)
+### 3.5 inch LCD x1 
+(This version is using an HDMI screen I snagged on Amazon)
+### Pi camera/webcam 
+x1
+### Female to female jumper wires 
+x??
+### Real-Time Clock module 
+x1 (pending implementation)
+### Geiger counter module 
+x1 (Couldn't resist, pending implementation)
+### Adafruit Amp 
+x1 (Adafruit Mono 2.5W Class D Audio Amplifier - PAM8302 [ADA2130])
+### Adafruit PowerBoost 1000 and battery 
+x1 (I chose a dual cell 5200mAh 3.7v Lithium ion Battery)
+### Small plastic speaker 
+x1 (Dimensions pending)
+### LED and resistor of your choice 
+x1 
+### Slide switch for a power switch 
+x1
 
 
 # Dependencies:
