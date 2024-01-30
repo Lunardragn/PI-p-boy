@@ -1,1 +1,10 @@
-
+import pyautogui
+import RPi.GPIO
+import opencv
+import python-opencv 
+import python3-opencv 
+import opencv-data
+import mediapipe-rpi3
+import mediapipe-rpi4
+import gtts
+import mpg321
