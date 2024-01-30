@@ -75,6 +75,7 @@ x1 (Might change. Wanted to use it to handle inputs so the main pi has more free
 ### Pentesting stuff?
 ### The ability to switch between the custom GUI and a destop environment. 
 It's a mini PC, why the heck not?
+### Set up quicksetup.sh
 
 # Modules:
 ### Microphone - Ambient or direct sound measuring
