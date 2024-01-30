@@ -7,7 +7,9 @@ if currentmodule = 0
 elif currentmodule = 1
   print(callout + "Sound")
   module = "Sound"
-elif currentmodue = 2
+elif currentmodule = 2
   print(callout + "Ultrasonic Distance")
   module = "Ultrasonic Distance"
-else
+elif currentmodule =3
+  print(callout + "GPS")
+  module = "GPS"
