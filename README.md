@@ -42,13 +42,14 @@ x1 (Might change. Wanted to use it to handle inputs so the main pi has more free
 
 # Dependencies:
 ### pyautogui
-### RPi.GPIO
+### RPi.GPIO or gpiozero 
+(Testing, need to find out which works better)
 ### opencv
 ### python-opencv python3-opencv opencv-data
 ### mediapipe-rpi3
 ### mediapipe-rpi4
 ### gtts
-### mpg321
+### mpyg321
 
 # TO DO:
 
@@ -74,6 +75,7 @@ x1 (Might change. Wanted to use it to handle inputs so the main pi has more free
 ### Pentesting stuff?
 ### The ability to switch between the custom GUI and a destop environment. 
 It's a mini PC, why the heck not?
+### Set up quicksetup.sh
 
 # Modules:
 ### Microphone - Ambient or direct sound measuring
@@ -88,7 +90,8 @@ Raise a warning if it goes past a certain threshold, as a means of protecting he
 ### Controller expansion
 Make it so custom controls like joysticks or extra rotary encoders can be plugged in to control things connected through GPIO. Like, two servos controlled with a couple rotary encoders, or a joystick. 
 I want to support at least 3 additional inputs. Really stretching the GPIO pins of the pi thin... might need a co-processor like a Pico to recieve serial and expand the overall GPIO. need to make a circut diagram first.
-
+### Remote transmitter
+Remote controlled arduino stuff maybe?
 
 # Check out:
 
