@@ -30,13 +30,12 @@ def getObjects(img, thres, nms, draw=True, objects=[]):
             className = classNames[classId - 1]
             if className in objects: 
                 objectInfo.append([box,className])
-                if (draw):
-                    cv2.rectangle(img,box,color=(0,255,0),thickness=2)
-                    cv2.putText(img,classNames[classId-1].upper(),(box[0] 10,box[1] 30),
-                    cv2.FONT_HERSHEY_COMPLEX,1,(0,255,0),2)
-                    cv2.putText(img,str(round(confidence*100,2)),(box[0] 200,box[1] 30),
-                    cv2.FONT_HERSHEY_COMPLEX,1,(0,255,0),2)
-    
+                if draw:
+                    cv2.rectangle(img, box, color=(0,255,0), thickness=2)
+                    cv2.putText(img, classNames[classId-1].upper(), (box[0] + 10, box[1] + 30), 
+                    cv2.FONT_HERSHEY_COMPLEX, 1, (0,255,0), 2)
+                    cv2.putText(img, str(round(confidence*100,2)), (box[0] + 200, box[1] + 30),
+                    cv2.FONT_HERSHEY_COMPLEX, 1, (0,255,0), 2)
     return img,objectInfo
 
 #Below determines the size of the live feed window that will be displayed on the Raspberry Pi OS

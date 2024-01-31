@@ -1,0 +1,12 @@
+pyautogui
+RPi.GPIO 
+gpiozero
+opencv-python
+opencv-contrib-python
+mediapipe-rpi3
+mediapipe-rpi4
+gtts
+mpyg321
+onnxruntime  
+pillow 
+numpy
