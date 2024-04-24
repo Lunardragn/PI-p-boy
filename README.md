@@ -40,16 +40,22 @@ x1
 ### Pi Pico
 x1 (Might change. Wanted to use it to handle inputs so the main pi has more free GPIO pins)
 
+# Hardware for Mini:
+### Pi Zero 2w x1
+### Waveshare V4 2.13 inch E-ink display hat x1
+### Rotary Encoder x1
+### Wrist strap of choice x1
+### Pi Pico (for expansion shim, since the display hat will take up GPIO space)
+
 # Dependencies:
 ### pyautogui
-### RPi.GPIO or gpiozero 
-(Testing, need to find out which works better)
-### opencv
+### RPi.GPIO
 ### python-opencv python3-opencv opencv-data
 ### mediapipe-rpi3
 ### mediapipe-rpi4
 ### gtts
 ### mpyg321
+### spidev
 
 # TO DO:
 
