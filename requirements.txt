@@ -1,7 +1,6 @@
 pyautogui
 RPi.GPIO 
 gpiozero
-opencv
 opencv-contrib-python
 mediapipe-rpi3
 mediapipe-rpi4
