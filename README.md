@@ -1,4 +1,4 @@
-# PI-pboy
+# PI-pboy Mini
 ### The mega swiss army knife of wearable hardware. 
 Designed for those who just really want an open source pipboy style wearable that's compatible with almost everything I guess
 
@@ -11,41 +11,12 @@ Updates will be made after I get the components
 Yeah, but I want to make this one mine, with all the bits and bobs I could ever want. Just uploading the stuff so anyone could make one if they wanted
 
 # Hardware:
-### Pi 3 or 4 x1
-### Rotary encoders x2
-### GPS module x1 
-(Pending implementation)
-### Modded 3d printed case 
-(In progress, needs foam for padding, and magnets to hold it closed. might make mounts for straps, in case it's too big)
-### 3.5 inch LCD x1 
-(This version is using an HDMI screen I snagged on Amazon)
-### Pi camera/webcam 
-x1
-### Female to female jumper wires 
-x??
-### Real-Time Clock module 
-x1 (pending implementation)
-### Geiger counter module 
-x1 (Couldn't resist, pending implementation)
-### Adafruit Amp 
-x1 (Adafruit Mono 2.5W Class D Audio Amplifier - PAM8302 [ADA2130])
-### Adafruit PowerBoost 1000 and battery 
-x1 (I chose a dual cell 5200mAh 3.7v Lithium ion Battery)
-### Small plastic speaker 
-x1 (Dimensions pending)
-### LED and resistor of your choice 
-x1 
-### Slide switch for a power switch 
-x1
-### Pi Pico
-x1 (Might change. Wanted to use it to handle inputs so the main pi has more free GPIO pins)
-
-# Hardware for Mini:
 ### Pi Zero 2w x1
 ### Waveshare V4 2.13 inch E-ink display hat x1
 ### Rotary Encoder x1
 ### Wrist strap of choice x1
 ### Pi Pico (for expansion shim, since the display hat will take up GPIO space)
+### Pisugar 3
 
 # Dependencies:
 ### pyautogui
